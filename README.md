@@ -1,45 +1,21 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
+# Exercícios Grafos 1
 
-Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
-
-# NomedoProjeto
-
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Conteúdo da Disciplina**: Grafos 1<br>
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 19/0036940  | Rafael Fernandes Amancio |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+&emsp;&emsp; Foram realizados três exercícios sobre Grafos que possuem três dificuldades diferentes (Fácil, Médio e Difícil), propostos pelo site [leetcode.com](https://leetcode.com).
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+[Exercício 1](https://leetcode.com/problems/find-if-path-exists-in-graph/) (Fácil). Clique [aqui](/Exercicio_1/exercicio_1.c) para ver o código.  <img src="./img/exercicio1.jpg">  
+
+[Exercício 2](https://leetcode.com/problems/is-graph-bipartite/) (Médio). Clique [aqui](/Exercicio_1/exercicio_2.c) para ver o código. <img src="./img/exercicio2.jpg">
+
+[Exercício 3](https://leetcode.com/problems/shortest-path-visiting-all-nodes/description/) (Difícil). Clique [aqui](/Exercicio_1/exercicio_3.c) para ver o código. <img src="./img/exercicio3.jpg">
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
-
-## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
-
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
-
-
-
-
+**Linguagem**: C<br>
